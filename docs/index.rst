@@ -10,16 +10,6 @@ Welcome to readthedocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
 $project
 ========
 
@@ -61,3 +51,11 @@ License
 -------
 
 The project is licensed under the BSD license.
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
