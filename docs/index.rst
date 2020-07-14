@@ -24,6 +24,10 @@ Look how easy it is to use:
 
 Features
 --------
+.. automodule:: class_module.test
+   :members:
+.. autoclass:: SimpleBleDevice
+   :members:
 
 - Be awesome
 - Make things faster
